@@ -66,10 +66,10 @@ Each folder contains:
 ---
 
 ## 👨‍🎓 Academic Info
-- **Course**: Signals and Systems / Digital Signal Processing Lab
-- **Institution**: [Your University Name]
-- **Semester**: [Your Semester]
-- **Instructor**: [Instructor’s Name]
+- **Course**: Signals and Systems / Signal Processing Laboratory 
+- **Institution**: Amrita Vishwa Vidhyapeetham 
+- **Semester**: Semester 2
+- **Instructor**: Mr. Gandhiraj.R
 
 ---
 
@@ -80,8 +80,8 @@ This repository is intended for educational purposes and demonstrates the basic 
 
 ## 📬 Contact
 For any queries or collaborations, feel free to reach out:
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🧑‍💻 [GitHub Profile](https://github.com/your-username)
+- 📧 [your.email@example.com](mailto:vagcreations2007@gmail.com)
+- 🧑‍💻 [GitHub Profile](https://github.com/Vaggiri)
 
 ---
 
